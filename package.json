@@ -1,0 +1,19 @@
+{
+  "name": "imdb",
+  "version": "1.0.0",
+  "description": "MiniProyecto",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Archivopdf/IMDB.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Archivopdf/IMDB/issues"
+  },
+  "homepage": "https://github.com/Archivopdf/IMDB#readme"
+}
