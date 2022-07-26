@@ -1,19 +1,19 @@
 {
-  "name": "imdb",
+  "name": "miniproyecto",
   "version": "1.0.0",
   "description": "MiniProyecto",
-  "main": "index.js",
+  "main": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Archivopdf/IMDB.git"
+    "url": "git+https://github.com/dianacastano/miniProyecto.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Archivopdf/IMDB/issues"
+    "url": "https://github.com/dianacastano/miniProyecto/issues"
   },
-  "homepage": "https://github.com/Archivopdf/IMDB#readme"
+  "homepage": "https://github.com/dianacastano/miniProyecto#readme"
 }
