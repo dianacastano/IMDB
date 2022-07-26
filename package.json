@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/dianacastano/miniProyecto/issues"
   },
-  "homepage": "https://github.com/dianacastano/miniProyecto#readme"
+  "homepage": "https://github.com/dianacastano/miniProyecto#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
 }
