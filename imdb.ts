@@ -1,7 +1,7 @@
 import { Movie } from "./Movie";
 import * as fs from "fs";
 
-export class Imdb {
+class Imdb {
   public static DB_NAME = "imdbDDBB.json";
   public peliculas: Movie[];
 
@@ -18,3 +18,5 @@ export class Imdb {
     return JSON.parse(fs.readFileSync(nombreFichero).toString());
   }
 }
+
+export { Imdb }
