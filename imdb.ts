@@ -11,7 +11,7 @@ class Imdb {
 
   public static escribirEnFicheroJSON(nombreFichero: string, obj: Imdb): void {
     fs.writeFileSync(nombreFichero, JSON.stringify(obj));
-    console.log("registro añadido ✓");
+    console.log("registro añadido");
   }
 
   public static obtenerInstanciaIMDB(nombreFichero: string): Imdb {
